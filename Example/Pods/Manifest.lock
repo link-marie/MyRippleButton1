@@ -1,0 +1,16 @@
+PODS:
+  - MyRippleButton1 (0.1.0)
+
+DEPENDENCIES:
+  - MyRippleButton1 (from `../`)
+
+EXTERNAL SOURCES:
+  MyRippleButton1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyRippleButton1: 36e4bcd119ee47a2e5478f88f2ad309ec5cd9f3b
+
+PODFILE CHECKSUM: 63c03b0d31e82b223e9fa5f06e5063df4ae2144d
+
+COCOAPODS: 1.5.3

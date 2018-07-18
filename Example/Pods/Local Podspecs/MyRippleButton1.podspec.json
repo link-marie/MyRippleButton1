@@ -1,0 +1,22 @@
+{
+  "name": "MyRippleButton1",
+  "version": "0.1.0",
+  "summary": "A short description of MyRippleButton1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LM/MyRippleButton1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LM": "example@email.com"
+  },
+  "source": {
+    "git": "https://github.com/LM/MyRippleButton1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyRippleButton1/Classes/**/*"
+}
